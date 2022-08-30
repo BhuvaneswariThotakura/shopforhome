@@ -1,0 +1,17 @@
+ProductId,ProductName,Price,Stock,Description,ProductIcon,CategoryType
+A05,Glen 33L SA 5033 Oven Toaster,11996,35, It comes with thermostat to control temperature and 60 min timer with hold facility,/assets/images/A05.jpg,0
+A06,Glen 4048 350 W Hand Blender,2595,24,"Compact, multi-purpose, super quick Blender Grinder",/assets/images/A06.jpg,0
+A07,Glen 4 Burner Glass Gas Stove,12296,39,"It comes with 4 forged brass burners including 1 high flame, 1 big and 2 small burners for utmost convenience and longer life",/assets/images/A07.jpg,0
+A08,Glen Vegetable Mini Chopper,1599,48,The Glen 4043 Turbo Chopper with twin blades and 4 cutting edges reduces the processing time by at least 30%,/assets/images/A08.jpg,0
+F05,Tobago Solid Wood Day Bed,66499,20,Amberville is synonymous to a stately and gracious living,/assets/images/F05.jpg,1
+F06,Versaille Solid Wood Sideboard,35499,22,"classically proportioned form, symmetrical moldings and trims having a very smooth and superior finish",/assets/images/F06.jpg,1
+F07,Ridhaan Solid Wood Writing Table With Stool ,30999,15,"Designed using exemplary Indian carvings, impeccable crafting, artistic paintings and motifs",/assets/images/F07.jpg,1
+F08,Andes 4 Door Wardrobe With 2 Drawers ,26249,25,"every design is made with the best engineered wood, quality checked for accurate dimensions, sturdiness and finish",/assets/images/F08.jpg,1
+G05,Polyester Areceae Artificial Plant,1687,45,"From artificial flowers, plants, and vases to floral accesories like decorative wrapping materials",/assets/images/G05.jpg,2
+G06, Iron Round Hanging with Home Text Hanging Planter,510,49,Stabilized iron alloy metal with powder coating ensures long lasting color and withstands extreme weather conditions,/assets/images/G06.jpg,2
+G07,Polystone Round Shaped Plante,6599,35,The beatifull Garden Product. Full Of Allure And Elegance,/assets/images/G07.jpg,2
+G08,White Wood Square Nested Planter Stand,3150,29,"Long-Lasting & Light-Weight, Made from Eco-friendlyùùWPCùù",/assets/images/G08.jpg,2
+L05,Black Mild Steel Garden Light,7946,19,Modern premium aluminium die cast indirect lighting LED gate pillar post light in grey finish,/assets/images/L05.jpg,3
+L06,Yellow Metal Shade Study Lamp With Yellow Base,1035,28,These lamps not only look stylish but also have high efficiency to brighten up the study desk,/assets/images/L06.jpg,3
+L07,Yellow 3.3 Meter String Light,1009,32,Attractive in looks and bright in appeal,/assets/images/L07.jpg,3
+L08,Aluminium Single Hanging Light,1045,24,High Brightness LEDs and the life of the wall light up to 30000 hours,/assets/images/L08.jpg,3
